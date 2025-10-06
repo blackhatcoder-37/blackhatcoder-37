@@ -5,13 +5,10 @@
 
 # Hi, I’m Vyshnavi 👋
 
-<p align="center">
-  <a href="https://github.com/blackhatcoder-37"><img src="https://komarev.com/ghpvc/?username=blackhatcoder-37&color=brightgreen" alt="Profile views"/></a>
-  <a href="https://github.com/blackhatcoder-37"><img src="https://img.shields.io/github/followers/blackhatcoder-37?label=Followers&style=social" alt="Followers"/></a>
-  <a href="https://github.com/blackhatcoder-37"><img src="https://img.shields.io/github/stars/blackhatcoder-37?style=social" alt="Stars"/></a>
-</p>
+[![Profile views](https://komarev.com/ghpvc/?username=blackhatcoder-37&color=brightgreen)](https://github.com/blackhatcoder-37) [![Followers](https://img.shields.io/github/followers/blackhatcoder-37?label=Followers&style=social)](https://github.com/blackhatcoder-37) [![Stars](https://img.shields.io/github/stars/blackhatcoder-37?style=social)](https://github.com/blackhatcoder-37)
 
-> I build and train models, explore data, and create tools that make data useful and beautiful.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org) [![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/langchain/langchain) [![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vyshnavi-r-695419318)
 [![Email](https://img.shields.io/badge/Email-hello%40vyshnavirbnambiar-green)](mailto:vyshnavirbnambiar@gmail.com)
