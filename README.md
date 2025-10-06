@@ -72,9 +72,3 @@
 
 ---
 
-## ⭐ Featured Projects
-- [project-one](https://github.com/blackhatcoder-37/project-one) — short description
-- [llm-demo](https://github.com/blackhatcoder-37/llm-demo) — LangChain + LLM prototype
-- [ml-pipeline](https://github.com/blackhatcoder-37/ml-pipeline) — CI/CD-ready training pipeline
-
-<!-- Replace the featured project links with real repo links or remove this section if you prefer -->
