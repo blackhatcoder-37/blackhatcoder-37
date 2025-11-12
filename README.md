@@ -59,8 +59,6 @@
 ## 📫 Connect with me
 - GitHub: https://github.com/blackhatcoder-37
 - Email: vyshnavirbnambiar@gmail.com
-- Replace the placeholders above with your real links before publishing.
-
 ---
 
 ## 📈 GitHub Stats
