@@ -5,7 +5,7 @@
 
 # Hi, I’m Vyshnavi 👋
 
-(https://github.com/blackhatcoder-37) [![Followers](https://img.shields.io/github/followers/blackhatcoder-37?label=Followers&style=social)](https://github.com/blackhatcoder-37) [![Stars](https://img.shields.io/github/stars/blackhatcoder-37?style=social)](https://github.com/blackhatcoder-37)
+[![Followers](https://img.shields.io/github/followers/blackhatcoder-37?label=Followers&style=social)](https://github.com/blackhatcoder-37) [![Stars](https://img.shields.io/github/stars/blackhatcoder-37?style=social)](https://github.com/blackhatcoder-37)
 
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org) [![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/langchain/langchain) [![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org)
